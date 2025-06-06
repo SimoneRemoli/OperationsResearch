@@ -1,6 +1,6 @@
 # Operations Research Course
 
-![Operations Research Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Network_flow_example.png/800px-Network_flow_example.png)
+![Operations Research Banner](https://www.clipartmax.com/middle/m2i8i8K9H7d3N4d3_image-of-computer-with-graph-data-driven/)
 
 Welcome to the **Operations Research** course!  
 This course introduces the main methodologies for modeling and solving decision-making problems, with applications in engineering, economics, and applied sciences.
