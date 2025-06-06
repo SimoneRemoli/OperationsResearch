@@ -59,15 +59,9 @@ This course introduces the main methodologies for modeling and solving decision-
 
 ---
 
-## Visualizing Graphs in Operations Research
+## Graphs in Operations Research
 
 Graphs are fundamental in understanding flows, connectivity, and optimization in networks.
-
-<div align="center">
-  <img src="https://www.researchgate.net/publication/369413899/figure/fig1/AS:11431281128946855@1679456695727/A-directed-acyclic-graph-DAG-representing-a-possible-causal-model-for-the-underlying.png" alt="Directed Graph Example" width="400"/>
-  <br/>
-  <em>Example of a directed graph used in network optimization.</em>
-</div>
 
 ---
 
