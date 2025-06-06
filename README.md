@@ -33,7 +33,6 @@ This course introduces the main methodologies for modeling and solving decision-
 
 - Simplex algorithm (tabular method)
 - Geometric interpretation  
-  ![Simplex Geometry](https://upload.wikimedia.org/wikipedia/commons/0/0c/Simplex-method-3d.png)
 - Pivoting and optimization
 - Optimality and degeneracy
 
@@ -54,7 +53,6 @@ This course introduces the main methodologies for modeling and solving decision-
 - **Maximum Flow Problem**  
   - Ford-Fulkerson algorithm
   - Practical applications (logistics, computer networks)
-  - ![Max Flow Example](https://en.wikipedia.org/wiki/Max-flow_min-cut_theorem#:~:text=The%20max%2Dflow%20min%2Dcut%20theorem%20tells%20us%20that%20the,capacity%20is%20the%20min%2Dcut.)
 - **Minimum Cut Problem**
   - Duality with the maximum flow
   - Algorithms for finding the minimum cut
@@ -66,7 +64,7 @@ This course introduces the main methodologies for modeling and solving decision-
 Graphs are fundamental in understanding flows, connectivity, and optimization in networks.
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Directed_graph%2C_circo.svg/640px-Directed_graph%2C_circo.svg.png" alt="Directed Graph Example" width="400"/>
+  <img src="https://www.researchgate.net/publication/369413899/figure/fig1/AS:11431281128946855@1679456695727/A-directed-acyclic-graph-DAG-representing-a-possible-causal-model-for-the-underlying.png" alt="Directed Graph Example" width="400"/>
   <br/>
   <em>Example of a directed graph used in network optimization.</em>
 </div>
