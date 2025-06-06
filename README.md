@@ -1,6 +1,6 @@
 # Operations Research Course
 
-![Operations Research Banner](https://www.clipartmax.com/middle/m2i8i8K9H7d3N4d3_image-of-computer-with-graph-data-driven/)
+![Operations Research Banner](https://www.clipartmax.com/png/middle/17-173043_image-of-computer-with-graph-data-driven.png)
 
 Welcome to the **Operations Research** course!  
 This course introduces the main methodologies for modeling and solving decision-making problems, with applications in engineering, economics, and applied sciences.
