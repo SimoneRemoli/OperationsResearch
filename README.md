@@ -54,7 +54,7 @@ This course introduces the main methodologies for modeling and solving decision-
 - **Maximum Flow Problem**  
   - Ford-Fulkerson algorithm
   - Practical applications (logistics, computer networks)
-  - ![Max Flow Example](https://upload.wikimedia.org/wikipedia/commons/4/4c/Maximum_flow.svg)
+  - ![Max Flow Example](https://en.wikipedia.org/wiki/Max-flow_min-cut_theorem#:~:text=The%20max%2Dflow%20min%2Dcut%20theorem%20tells%20us%20that%20the,capacity%20is%20the%20min%2Dcut.)
 - **Minimum Cut Problem**
   - Duality with the maximum flow
   - Algorithms for finding the minimum cut
