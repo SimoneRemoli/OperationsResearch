@@ -1,83 +1,77 @@
-# OperationsResearch
-This folder contains the documentation related to the Operations Research course taught by Prof. Gianpaolo Oriolo at the University of Rome Tor Vergata (Uniroma2), within the Faculty of Engineering.   The folder includes documentation in Italian.   The entire course is available in this folder.
+# Operations Research Course
 
-# Corso di Ricerca Operativa
+![Operations Research Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Network_flow_example.png/800px-Network_flow_example.png)
 
-![Ricerca Operativa](https://upload.wikimedia.org/wikipedia/commons/7/77/Simplex_algorithm_example.gif)
-
-Benvenuti al corso di **Ricerca Operativa**!  
-Questo insegnamento guida lo studente attraverso le principali metodologie per la modellazione e la risoluzione di problemi decisionali, con applicazioni in ingegneria, economia e scienze applicate.
+Welcome to the **Operations Research** course!  
+This course introduces the main methodologies for modeling and solving decision-making problems, with applications in engineering, economics, and applied sciences.
 
 ---
 
-## Argomenti del Corso
+## Course Topics
 
-### 1. Introduzione alla Ricerca Operativa
+### 1. Introduction to Operations Research
 
-- Definizione e campi di applicazione
-- Struttura generale di un problema di ottimizzazione
+- Definition and application areas
+- General structure of an optimization problem
 
 ---
 
-### 2. Problemi di Programmazione Lineare
+### 2. Linear Programming Problems
 
-- **Formulazione di modelli lineari**  
-  Come rappresentare problemi reali con vincoli e funzioni obiettivo lineari.
-- **Esempio di modello:**
+- **Modeling real-world problems** with linear constraints and objective functions.
+- **Example of a linear program:**
   ```plaintext
-  max    cᵀx
-  s.t.   Ax ≤ b
-         x ≥ 0
+  maximize   cᵀx
+  subject to Ax ≤ b
+             x ≥ 0
   ```
+- Applications in logistics, production planning, and resource allocation.
 
 ---
 
-### 3. Metodo del Simplesso
+### 3. The Simplex Method
 
-- Algoritmo del simplesso su tavoletta
-- Interpretazione geometrica  
-  ![Simplesso geometrico](https://upload.wikimedia.org/wikipedia/commons/0/0c/Simplex-method-3d.png)
-- Pivoting e ottimizzazione
-- Ottimalità e degenerazione
-
----
-
-### 4. Teoria della Dualità
-
-- Formulazione duale di un problema lineare
-- Interpretazione economica della dualità
-- **Teoremi fondamentali:**
-  - Teorema dell’assenza di gap duale
-  - Condizioni di complementarità
+- Simplex algorithm (tabular method)
+- Geometric interpretation  
+  ![Simplex Geometry](https://upload.wikimedia.org/wikipedia/commons/0/0c/Simplex-method-3d.png)
+- Pivoting and optimization
+- Optimality and degeneracy
 
 ---
 
-### 5. Problemi di Flusso su Reti
+### 4. Duality Theory
 
-- **Problema del massimo flusso**  
-  - Algoritmo di Ford-Fulkerson
-  - Applicazioni pratiche (logistica, reti di trasporto)
-  - ![Max Flow](https://upload.wikimedia.org/wikipedia/commons/4/4c/Maximum_flow.svg)
-- **Problema del minimo taglio**
-  - Dualità con il massimo flusso
-  - Algoritmi di individuazione del taglio minimo
+- Dual formulation of linear programs
+- Economic interpretation of dual variables
+- **Key theorems:**
+  - Strong duality theorem
+  - Complementary slackness conditions
 
 ---
 
-## Materiale e Risorse
+### 5. Network Flow Problems
 
-- Dispense ufficiali
-- Esercitazioni guidate
-- Repository con esempi di codice e quiz
-
----
-
-## Contatti
-
-- Docente: Prof. [Nome Cognome]
-- Email: docente@universita.it
-- Orario ricevimento: [giorni e orari]
+- **Maximum Flow Problem**  
+  - Ford-Fulkerson algorithm
+  - Practical applications (logistics, computer networks)
+  - ![Max Flow Example](https://upload.wikimedia.org/wikipedia/commons/4/4c/Maximum_flow.svg)
+- **Minimum Cut Problem**
+  - Duality with the maximum flow
+  - Algorithms for finding the minimum cut
 
 ---
 
-### _“La ricerca operativa trasforma problemi complessi in soluzioni ottimali.”_
+## Visualizing Graphs in Operations Research
+
+Graphs are fundamental in understanding flows, connectivity, and optimization in networks.
+
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Directed_graph%2C_circo.svg/640px-Directed_graph%2C_circo.svg.png" alt="Directed Graph Example" width="400"/>
+  <br/>
+  <em>Example of a directed graph used in network optimization.</em>
+</div>
+
+---
+
+### _“Operations research transforms complex problems into optimal solutions.”_
+
